@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Web developer, NodeJS and React<br>🔭 I´m currently working on Edmur Imóveis´<br>😀 Love learning about new stuff<br>🌱 I´m currently learning about Java<br>🤝 I´m looking for help with PHP<br>💬 Contact me about anything<br>⚡ Fun fact - I hate coffee
+💻 Web developer, NodeJS and React<br>🔭 I´m currently working on Edmur Imóveis<br>😀 Love learning about new stuff<br>🌱 I´m currently learning about Java<br>🤝 I´m looking for help with PHP<br>💬 Contact me about anything<br>⚡ Fun fact - I hate coffee
 
 
 ## 🌐 Socials:
